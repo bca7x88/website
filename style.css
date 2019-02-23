@@ -1,1 +1,16 @@
+  body {
+    background-color: lightblue;   
+  }
 
+  p{
+      color:green;
+      }
+      
+  #para1 {
+      color: green;
+      }
+      
+  .center {
+      text-align: center;
+      color: green;
+      }  
